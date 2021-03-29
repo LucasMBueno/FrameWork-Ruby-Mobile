@@ -1,0 +1,8 @@
+---
+default: --profile pretty -p homolog -p cucumber -p allure
+allure: --format AllureCucumber::CucumberFormatter --out=reports_allure
+pretty: --format pretty
+progress: --format progress
+dev: ambiente=dev
+homolog: ambiente=homolog
+cucumber: --publish-quiet

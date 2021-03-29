@@ -1,0 +1,13 @@
+Triangulo:
+  Equilátero:
+    - a: 4
+      b: 4
+      c: 4
+  Isósceles:
+    - a: 3
+      b: 2
+      c: 2
+  Escaleno:
+    - a: 1
+      b: 2
+      c: 3

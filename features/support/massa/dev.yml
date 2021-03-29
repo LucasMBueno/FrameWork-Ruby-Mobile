@@ -1,0 +1,13 @@
+Triangulo:
+  Equilatero:
+    - a:
+      b:
+      c:
+  isoceles:
+    - a:
+      b:
+      c:
+  Escaleno:
+    - a:
+      b:
+      c:
